@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
-<h3 align="center">A Python Developer and i liked Data Science, Machine learning</h3>
+<h3 align="center">I'm a python developer with a passion for machine learning and data science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winiast&label=Profile%20views&color=0e75b6&style=flat" alt="winiast" /> </p>
 

@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
 <h3 align="center">I'm a python developer with a passion for machine learning and data science</h3>
+<a href="https://github.com/Winiast">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=winiast&label=Profile%20views&color=0e75b6&style=flat" alt="winiast" /> </p>
 
@@ -29,4 +30,13 @@
 
 <p>&nbsp;<img align="letf" src="https://github-readme-stats.vercel.app/api?username=winiast&show_icons=true&locale=en" alt="winiast" /></p>
 
-<p>  ![Snake animation](https://github.com/Winiast/Winiast/blob/output/github-contribution-grid-snake.svg)</p>
+
+
+
+ <br>
+ 
+  ![Snake animation](https://github.com/Winiast/Winiast/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+

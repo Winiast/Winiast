@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
 <h3 align="center">I'm a python developer with a passion for machine learning and data science</h3>
 <a href="https://github.com/Winiast">
+ 
+ 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=winiast&label=Profile%20views&color=0e75b6&style=flat" alt="winiast" /> </p>
 
 - 🔭 I’m currently working on [BootCamp_Carrefour](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
 
@@ -16,27 +17,25 @@
 
 - ⚡ Fun fact **I am new in developement**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gustavo-henrique-3b9bb8196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-henrique-3b9bb8196/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=winiast&show_icons=true&locale=en&layout=compact" alt="winiast" /></p>
-
-
-<p>&nbsp;<img align="letf" src="https://github-readme-stats.vercel.app/api?username=winiast&show_icons=true&locale=en" alt="winiast" /></p>
-
-
-
-
- <br>
- 
-  ![Snake animation](https://github.com/Winiast/Winiast/blob/output/github-contribution-grid-snake.svg)
- 
+<div>
+  <a href="https://github.com/Winiast">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Winiast&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winiast&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</div>
+ 
+ ##
+ 
+ <div> 
+  <a href="https://www.instagram.com/meninoguxta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gustavo.winiast@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/gustavo-silva-3b9bb8196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 

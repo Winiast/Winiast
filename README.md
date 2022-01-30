@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
-<h3 align="center">I'm a python developer with a passion for machine learning and data science</h3>
+<h3 align="center">I'm a Front-end Developer</h3>
 <a href="https://github.com/Winiast">
  
  
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [BootCamp_Carrefour](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Python and Django** and **HTML, CSS and JavaScript**
 
-- 🤝 I’m looking for help with **Machine Learning**
+- 🤝 I’m looking for help with **JavaScript**
 
 - 💬 Ask me about **Git and VBA**
 

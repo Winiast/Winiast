@@ -5,13 +5,13 @@
  
 
 
-- 🔭 I’m currently working on [BootCamp_Carrefour](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
+- 🔭 I’m currently working on [BootCamp_Inter_Developer](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
 
 - 🌱 I’m currently learning **Python and Django** and **HTML, CSS and JavaScript**
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **Git and VBA**
+- 💬 Ask me about **Git and VBA, HTML, CSS**
 
 - 📫 How to reach me **gustavo.winiast@gmail.com**
 

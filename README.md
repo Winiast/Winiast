@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
+<div class=block>
+  <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
 <h3 align="center">I'm a Front-end Developer</h3>
 <a href="https://github.com/Winiast">
  
@@ -24,8 +25,7 @@
 </div>
  
  <div style="display: flex
-             align-items: center
-             justify-content: center"><br>
+             align: center"><br>
   <img align="center" alt="gustavo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="gustavo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gustavo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -47,3 +47,6 @@
  ![Snake animation](https://github.com/Winiast/Winiast/blob/output/github-contribution-grid-snake.svg)
   
  </div>
+
+ </div>
+

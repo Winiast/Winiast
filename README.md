@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [BootCamp_Inter_Developer](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
 
-- 🌱 I’m currently learning **Python and Django** and **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning Backend( **Java and Maevin** ) and FronEnd(**HTML, CSS and JavaScript**)
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **Git and VBA, HTML, CSS**
+- 💬 Ask me about **Git, VBA, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **gustavo.winiast@gmail.com**
 

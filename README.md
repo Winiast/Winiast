@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 💬 Ask me about **Git, VBA, HTML, CSS and JavaScript**
+- 💬 Ask me about **Git, VBA, HTML, CSS, JavaScript and Python **
 
 - 📫 How to reach me **gustavo.winiast@gmail.com**
 

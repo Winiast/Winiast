@@ -18,7 +18,13 @@
 
 - ⚡ Fun fact **I am new in developement**
 
-<div align="center" style="display-flex;" style="padding: 20px">
+ <div align="center" style="display-flex" style="maring: 40px;">
+ 
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Winiast&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+
+ </div>
+
+<div align="center" style="display-flex; padding: 20px;">
   <a href="https://github.com/Winiast">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Winiast&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winiast&layout=compact&langs_count=7&theme=dark"/>
@@ -34,6 +40,8 @@
 
 </div>
  
+ 
+
  ##
  
  <div align="center" style="display-flex" style="margin: 2rem"> 

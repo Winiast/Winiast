@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning Backend( **Java and Maevin** ) and FronEnd(**HTML, CSS and JavaScript**)
 
-- 🤝 I’m looking for help with **JavaScript.**
+- 🤝 I’m looking for help with **JavaScript. Java**
 
 - 💬 Ask me about **Git, VBA, HTML, CSS, JavaScript and Python.**
 

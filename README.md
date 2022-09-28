@@ -6,7 +6,7 @@
  
 
 
-- 🔭 I’m currently working on [BootCamp_Inter_Developer](https://github.com/Winiast/Project_By_BootCamp_Carrefour)
+- 🔭 I’m currently working on projects with Flutter and React.js, Next.js and more.
 
 - 🌱 I’m currently learning Backend( **Java and Maevin** ) and FronEnd(**HTML, CSS and JavaScript**)
 

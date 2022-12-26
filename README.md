@@ -1,6 +1,6 @@
 <div class=block>
   <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
-<h3 align="center">I'm a Front-end Developer/Mobile</h3>
+<h3 align="center">I'm a Developer Front-end/Mobile</h3>
 <a href="https://github.com/Winiast">
  
  

@@ -6,17 +6,17 @@
  
 
 
-- 🔭 I’m currently working on projects with Flutter and React.js, Next.js and more.
+- 🔭 I’m currently working on projects with React Native and React.js, Next.js, TypeScript and more.
 
-- 🌱 I’m currently learning Backend( **Java and Maevin** ) and FronEnd(**HTML, CSS and JavaScript**)
+- 🌱 I’m currently learning Backend( **Java, TypeScript, SQL ... ** ) and FronEnd(**React.js, JavaScript, TypeScript, CSS, Styled-Components ...*)
 
-- 🤝 I’m looking for help with **JavaScript. Java**
+- 🤝 I’m looking for help with **JavaScript. Java, HTML, CSS**
 
 - 💬 Ask me about **Git, VBA, HTML, CSS, JavaScript and Python.**
 
 - 📫 How to reach me **gustavo.winiast@gmail.com**
 
-- ⚡ Fun fact **I am new in developement**
+
   <br></br>
 
  <div align="center" style="display-flex">

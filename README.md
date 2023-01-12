@@ -23,7 +23,7 @@
  
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=Winiast&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 
- </div>
+<!--  </div>
 
   <br></br>
 <div align="center" style="display-flex; padding: 20px;">
@@ -40,7 +40,7 @@
     <img align="center" alt="gustavo-c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
 
 
-</div>
+</div> -->
  
  
 

@@ -6,7 +6,7 @@
  
 
 
-- 🔭 I’m currently working on projects with React Native and React.js, Next.js, TypeScript and more.
+- 🔭 I’m currently working on projects with React , Javascript , TypeScript, HTML, CSS and more.
 
 - 🌱 I’m currently learning Backend( **Java, TypeScript, SQL ... ** ) and FronEnd(**React.js, JavaScript, TypeScript, CSS, Styled-Components ...*)
 

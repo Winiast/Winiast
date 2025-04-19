@@ -1,10 +1,10 @@
 <div class=block>
   <h1 align="center">Hi 👋, I'm Gustavo Henrique</h1>
-<h3 align="center">I'm a Developer FullStack</h3>
+<h3 align="center">I'm a Front-end Devoloper</h3>
 <a href="https://github.com/Winiast">
  
  
-
+<!--
 
 - 🔭 I’m currently working on projects with React , Javascript , TypeScript, HTML, CSS and more.
 
@@ -23,7 +23,7 @@
  
   <img src="http://github-readme-streak-stats.herokuapp.com/?user=Winiast&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 
-<!--  </div>
+  </div>
 
   <br></br>
 <div align="center" style="display-flex; padding: 20px;">
